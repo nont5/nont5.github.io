@@ -15,6 +15,7 @@ nav img{
 
 footer span, #orangeSpan{
     color: orange;
+    text-align: end;
 }
 
 a{
