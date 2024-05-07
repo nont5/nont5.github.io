@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    font-family: 'Cascadia Code';
+    background-color: black;
+    color: white; 
+}
+
+nav img{
+    border-radius: 10px;
+    size: 50px;
+}
+
+footer span, #orangeSpan{
+    color: orange;
+}
+
+a{
+    color: orange;
+    text-decoration: none;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+}
+
+.card{
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.card:nth-child(0){
+    transform: translateX(50px);
+}
