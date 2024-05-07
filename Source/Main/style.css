@@ -28,6 +28,10 @@ ul li{
     display: inline;
 }
 
+footer{
+    color: white;
+}
+
 .card{
     height: 300px;
     width: 100px;
