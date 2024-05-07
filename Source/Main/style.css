@@ -2,7 +2,10 @@
     margin: 0;
     font-family: 'Cascadia Code';
     background-color: black;
-    color: white; 
+}
+
+h1, span{
+    color: white;
 }
 
 nav img{
