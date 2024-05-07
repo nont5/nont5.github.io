@@ -40,8 +40,11 @@ ul li{
 }
 
 .explore-container{
-    text-align: center;
     background-color: white;
     width: 700px;
     height: 500px;
+}
+
+.text-container{
+    text-align: center;
 }
