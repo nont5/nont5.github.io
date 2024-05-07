@@ -36,23 +36,23 @@ ul li{
     border-radius: 10px;
 }
 
-.card-group:nth-child(1){
+.card:nth-child(1){
     transform: translateX(50px);
 }
 
-.card-group:nth-child(2){
+.card:nth-child(2){
     transform: translateX(-50px);
 }
 
-.card-group:nth-child(3){
+.card:nth-child(3){
     transform: translateX(0px);
 }
 
-.card-group:nth-child(4){
+.card:nth-child(4){
     transform: translateX(0px);
 }
 
-.card-group:nth-child(5){
+.card:nth-child(5){
     transform: translateX(0px);
 }
 
