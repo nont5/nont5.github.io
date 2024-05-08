@@ -13,11 +13,6 @@ nav img{
     size: 50px;
 }
 
-footer span, #orangeSpan{
-    color: orange;
-    background: none;
-}
-
 a{
     color: orange;
     text-decoration: none;
@@ -26,40 +21,6 @@ a{
 ul li{
     list-style-type: none;
     display: inline;
-}
-
-footer{
-    transform: translateY(50%);
-    background: none;
-    color: white;
-}
-
-.card{
-    height: 300px;
-    width: 100px;
-    border-radius: 50px;
-    background: white;
-    border-radius: 10px;
-}
-
-.card:nth-child(1){
-    transform: translateX(50px);
-}
-
-.card:nth-child(2){
-    transform: translateX(-50px);
-}
-
-.card:nth-child(3){
-    transform: translateX(-150px);
-}
-
-.card:nth-child(4){
-    transform: translateX(-200px);
-}
-
-.card:nth-child(5){
-    transform: translateX(-250px);
 }
 
 .explore-container{
