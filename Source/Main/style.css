@@ -22,7 +22,3 @@ ul li{
     list-style-type: none;
     display: inline;
 }
-
-.navbar-container{
-    transform: translateX(0);
-}
