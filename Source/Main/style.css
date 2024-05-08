@@ -26,7 +26,3 @@ ul li{
 .navbar-container{
     transform: translateX(-50%);
 }
-
-.explore-container h1, span, h3{
-    text-align: center;
-}
