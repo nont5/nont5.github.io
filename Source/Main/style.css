@@ -4,10 +4,10 @@
     background-color: black;
 }
 
-h1, span{
+h1, span, h3{
     color: white;
 }
-    
+
 nav img{
     border-radius: 10px;
     size: 50px;
