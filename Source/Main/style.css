@@ -23,8 +23,8 @@ ul li{
     display: inline;
 }
 
-.navbar-container h1, a{
-    text-align: none;
+.navbar-container{
+    transform: translateX(-50%);
 }
 
 .explore-container h1, span, h3{
