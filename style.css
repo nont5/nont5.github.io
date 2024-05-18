@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family: 'SF Pro Display';
+}
+
+nav{
+    color: white;
+    background-image: linear-gradient(cyan, blue);
+    text-align: center;
+}
+
+ul li{
+    list-style-type: none;
+    color: white;
+    display: inline;
+}
+
+nav h1{
+    display: inline;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.content{
+    background: black;
+    color: white;
+    height: 900px;
+    text-align: center;
+}
+
+.convert, .convert a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(blue, black);
+}
