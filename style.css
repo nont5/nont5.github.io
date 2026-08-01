@@ -4,13 +4,13 @@ body{
 }
 
 nav{
-    color: white;
     background-image: linear-gradient(green, lime, black);
     text-align: center;
 }
 
 ul li{
     list-style-type: none;
+    color: white;
     display: inline;
 }
 
