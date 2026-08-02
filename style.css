@@ -9,9 +9,9 @@ nav{
     text-align: center;
 }
 
-ul li{
+ul li h1{
     list-style-type: none;
-    color: white;
+    color: black;
     display: inline;
 }
 
