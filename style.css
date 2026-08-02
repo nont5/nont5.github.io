@@ -14,7 +14,7 @@ ul li{
     display: inline;
 }
 
-h1 a {
+h1, a {
     color: black;
 }
 
