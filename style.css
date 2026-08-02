@@ -5,7 +5,7 @@ body{
 
 nav{
     color: white;
-    background-image: linear-gradient(to right, #006aff, #fffb00, #006aff, #fffb00);
+    background-image: linear-gradient(to right, #006aff, #fffb00);
     text-align: center;
 }
 
