@@ -14,8 +14,8 @@ ul li{
     display: inline;
 }
 
-h1, a {
-    color: white;
+#navtit {
+    color: black;
 }
 
 #navselect {
