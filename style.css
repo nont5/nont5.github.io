@@ -9,11 +9,16 @@ nav{
     text-align: center;
 }
 
-ul li h1{
+ul li{
     list-style-type: none;
-    color: black;
+    color: white;
     display: inline;
 }
+
+h1 {
+    color: black;
+}
+
 
 nav h1{
     display: inline;
