@@ -38,6 +38,10 @@ nav a{
     text-align: center;
 }
 
+#projects {
+    display: block;
+}
+
 .about{
     background: black;
     color: white;
