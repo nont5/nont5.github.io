@@ -15,9 +15,12 @@ ul li{
 }
 
 h1, a {
-    color: black;
+    color: white;
 }
 
+#navselect {
+    color: black;
+}
 
 nav h1{
     display: inline;
