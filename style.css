@@ -22,6 +22,10 @@ ul li{
     color: black;
 }
 
+#sign {
+    font-family: cursive;
+}
+
 nav h1{
     display: inline;
 }
