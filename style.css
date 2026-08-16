@@ -36,8 +36,8 @@ nav a{
 }
 
 .content{
-    background: black;
-    color: white;
+    background: white;
+    color: black;
     height: 900px;
     text-align: center;
 }
